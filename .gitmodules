@@ -1,0 +1,3 @@
+[submodule "react-fastapi-frontend"]
+	path = frontend
+	url = git@github.com:dobpo/react-fastapi-frontend.git
